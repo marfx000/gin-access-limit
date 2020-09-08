@@ -1,4 +1,4 @@
-module github.com/bu/gin-access-limit
+module github.com/marfx000/gin-access-limit
 
 go 1.14
 
